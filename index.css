@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+#navMain{
+	background-color: #5c374c;
+}
+
+#marvy{
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 2rem;
+
+}
+
+#mr{
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 5rem;
+}
+
+#mp{
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 5rem;
+}
+
+#landing div{
+	color: #ce6a85;
+
+}
+
+#landing p{
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 2rem;
+}
+
+
+#titles{
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 2rem;
+}
+
+
+#href_noDecor{
+	text-decoration:none;
+}
+
+#contact{
+	background-color: #ff8c61;
+}
+
+#tools{
+	background-color: #985277;
+}
+
+#footer{
+	background-color: #5c374c;
+}
+
+.google-map {
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
